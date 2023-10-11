@@ -28,5 +28,4 @@ calc.addEventListener("click", () => {
         diagonal.innerHTML = ``;
         mensaje.innerHTML = `Por favor, ingrese valores válidos.`;
     }
-   
 })
