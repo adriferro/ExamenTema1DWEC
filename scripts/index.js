@@ -1,5 +1,5 @@
-//Adrián Fernández Rdoríguez
-//https://github.com/adriferro/ExamenTema1DWEC.git
+// Adrián Fernández Rdoríguez
+// https://github.com/adriferro/ExamenTema1DWEC.git
 
 
 //Creamos una constante
