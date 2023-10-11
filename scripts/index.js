@@ -1,6 +1,7 @@
 //Adrián Fernández Rdoríguez
 //
 
+
 //Creamos una constante
 const calc = document.getElementById("calc");
 //Añadimos un evento a dicha constante, en este caso para cuando hacemos "click"
