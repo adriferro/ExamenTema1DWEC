@@ -18,6 +18,7 @@ label{
     width: 5rem;
     height: 2rem;
     border-radius: 2px;
+    /*border-radius sirve para redondear las esquinas*/
 }
 
 div{
@@ -27,4 +28,5 @@ div{
 button{
     margin-bottom: 1rem;
     cursor: pointer;
+    /*cursor:pointer -> sirve para que al poner el cursor encima se ponga la mano*/
 }
